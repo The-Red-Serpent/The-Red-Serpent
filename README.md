@@ -19,3 +19,8 @@ HI There I'm The_Red_Serpent<br>I'm a Cyber Security Self Learner<br>I aspire to
 [![](https://visitcount.itsvg.in/api?id=The-Red-Serpent&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Red-Serpent/The-Red-Serpent/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Red-Serpent/The-Red-Serpent/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/The-Red-Serpent/The-Red-Serpent/output/github-snake.svg" />
+</picture>
