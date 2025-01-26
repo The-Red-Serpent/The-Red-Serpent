@@ -33,11 +33,10 @@
 [![](https://visitcount.itsvg.in/api?id=The-Red-Serpent&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div style="display: flex; justify-content: center; align-items: center;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Red-Serpent/The-Red-Serpent/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Red-Serpent/The-Red-Serpent/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/The-Red-Serpent/The-Red-Serpent/output/github-snake.svg" />
 </picture>
-</div>
+
 <img align="center" src="https://profile-counter.glitch.me/The-Red-Serpent/count.svg?"  />
