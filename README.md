@@ -84,6 +84,7 @@
   <img src="https://raw.githubusercontent.com/The-Red-Serpent/The-Red-Serpent.github.io/main/public/apisec.webp"  width="120""/>
   <img src="https://templates.images.credential.net/17043567286076012013649409456004.png"  width="120"/>
   <img src="https://images.credly.com/size/680x680/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png"  width="120"/>
+  <img src="https://templates.images.credential.net/17043570231479652261133221341593.png"  width="120"/>
   
 </div>
 
@@ -101,4 +102,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/The-Red-Serpent/The-Red-Serpent/output/github-snake.svg" />
 </picture>
 
-<img align="center" src="https://profile-counter.glitch.me/The-Red-Serpent/count.svg?"  />
+
