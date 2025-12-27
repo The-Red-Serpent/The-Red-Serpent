@@ -18,7 +18,9 @@
 
   - Web Application Security
 
-  - API Security
+  - Network Pentesting
+ 
+  - Mobile Pentesting
 
 
 
