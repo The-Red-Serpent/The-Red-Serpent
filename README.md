@@ -1,28 +1,13 @@
-
-![svg](https://readme-typing-svg.demolab.com/?font=Pixelify+Sans&size=32&duration=2550&pause=1000&color=ffffff&random=false&width=435&lines=Hello+Welcome+to+my+profile+!)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=The+Red+Serpent;Red+Team+Operator" />
+</h1>
 
 
  
 
 <div align="left">
 
-<img align="right" src="https://media1.tenor.com/m/M0bZ6V1ijGwAAAAd/batman.gif" alt="Cybersecurity GIF" width="220" height="250"/>
-
-- Hello, I'm Red Serpent
-
-- I’m a self-taught Cybersecurity and Network Engineer with over a year of hands-on experience.
-
-- My expertise includes:
-
-  - Active Directory (AD) Pentesting
-
-  - Web Application Security
-
-  - Network Pentesting
- 
-  - Mobile Pentesting
-
-
+<img align="right" src="https://media1.tenor.com/m/3ioY4Ezu0YAAAAAC/blue-lock-isagi.gif" alt="Cybersecurity GIF" width="220" height="250"/>
 
 </div>
 
