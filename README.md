@@ -3,18 +3,12 @@
 </h1>
 
 
- 
-
-<div align="left">
-
-<img align="right" src="https://media1.tenor.com/m/3ioY4Ezu0YAAAAAC/blue-lock-isagi.gif" alt="Cybersecurity GIF" width="220" height="250"/>
-
-</div>
-
-
-
-
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/3ioY4Ezu0YAAAAAd/blue-lock-isagi.gif"
+       alt="Cybersecurity GIF"
+       width="300"
+       height="350" />
+</p>
 
 ## Languages 
 
