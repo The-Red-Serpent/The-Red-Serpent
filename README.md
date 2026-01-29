@@ -22,10 +22,13 @@ Currently Good at:
 Working on :
 - Cloud Red Teaming
 - AI Red Teaming
+- WIFI
 - Phishing Operations
 - AV/EDR Evasion 
 - Maldev
 - BOF Development
+
+Im a human not an AI so it will take time for me to learn . 
 
 ## Languages 
 
