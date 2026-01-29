@@ -10,7 +10,23 @@
        height="350" />
 </p>
 
-i Know u are watching 
+## Capabilities
+Currently Good at:
+- Active Directory
+- Network
+- OSINT
+- Infrastructure
+- Web
+- Mobile
+
+Working on :
+- Cloud Red Teaming
+- AI Red Teaming
+- Phishing Operations
+- AV/EDR Evasion 
+- Maldev
+- BOF Development
+
 ## Languages 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
