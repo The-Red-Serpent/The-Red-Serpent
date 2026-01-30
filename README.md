@@ -10,25 +10,18 @@
        height="350" />
 </p>
 
-## Capabilities
-Currently Good at:
-- Active Directory
-- Network
-- OSINT
-- Infrastructure
-- Web
-- Mobile
+### Capabilities 
+| **Currently Good at** | **Working on** |
+|----------------------|---------------|
+| Active Directory     | Cloud Red Teaming |
+| Network              | AI Red Teaming |
+| OSINT                | WIFI |
+| Infrastructure       | Phishing Operations |
+| Web                  | AV/EDR Evasion |
+| Mobile               | Maldev & BOF Development |
 
-Working on :
-- Cloud Red Teaming
-- AI Red Teaming
-- WIFI
-- Phishing Operations
-- AV/EDR Evasion 
-- Maldev
-- BOF Development
 
-Im a human not an AI so it will take time for me to learn . 
+I'm a human not an AI so, it will take time for me to learn
 
 ## Languages 
 
