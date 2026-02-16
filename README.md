@@ -73,7 +73,7 @@ I'm a human not an AI so, it will take time for me to learn
 ## Certifications
 <div align="left">
  <img src="https://images.credly.com/size/340x340/images/20082fc1-94af-4773-9df0-28856b566748/image.png"  width="120""/>
-  <img src="https://secops.group/wp-content/uploads/2023/02/Certified-Network-Security-Practitioner-whbg.png"  width="120"/>
+  <img src="https://pentestingexams.com/wp-content/uploads/2023/02/Certified-Network-Security-Practitioner-whbg.png"  width="120"/>
   <img src="https://raw.githubusercontent.com/The-Red-Serpent/The-Red-Serpent.github.io/main/public/apisec.webp"  width="120""/>
   <img src="https://templates.images.credential.net/17043567286076012013649409456004.png"  width="120"/>
   <img src="https://templates.images.credential.net/17043570231479652261133221341593.png"  width="120"/>
