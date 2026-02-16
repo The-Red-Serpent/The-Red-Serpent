@@ -39,17 +39,14 @@ I'm a human not an AI so, it will take time for me to learn
 
 
 ## Red Teaming Tools
-
-  ![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6347?style=for-the-badge&logo=hackaday&logoColor=white)
-  ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnome-terminal&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Nikto](https://img.shields.io/badge/Nikto-0E73B2?style=for-the-badge&logo=nikto&logoColor=white)
-  ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF5722?style=for-the-badge&logo=owasp&logoColor=white)
-  ![Social-Engineering Toolkit](https://img.shields.io/badge/Social_Engineering_Toolkit-EE3124?style=for-the-badge&logo=toolbox&logoColor=white)
-  ![Ettercap](https://img.shields.io/badge/Ettercap-4EAA25?style=for-the-badge&logo=ettercap&logoColor=white)
-  ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-DC5C1B?style=for-the-badge&logo=cobaltstrike&logoColor=white)
-  ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FF9900?style=for-the-badge&logo=aircrack-ng&logoColor=white)
+ ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-DC5C1B?style=for-the-badge&logo=cobaltstrike&logoColor=white)
+ ![BloodHound](https://img.shields.io/badge/BloodHound-C41E3A?style=for-the-badge&logo=graphcool&logoColor=white)
+ ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6347?style=for-the-badge&logo=hackaday&logoColor=white)
+ ![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
+ ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+ ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF5722?style=for-the-badge&logo=owasp&logoColor=white)
+ ![Social-Engineering Toolkit](https://img.shields.io/badge/Social_Engineering_Toolkit-EE3124?style=for-the-badge&logo=toolbox&logoColor=white)
+ ![Ettercap](https://img.shields.io/badge/Ettercap-4EAA25?style=for-the-badge&logo=ettercap&logoColor=white)
 
 
 ##  Blue Teaming Tools
@@ -58,7 +55,7 @@ I'm a human not an AI so, it will take time for me to learn
   ![Snort](https://img.shields.io/badge/Snort-EE3124?style=for-the-badge&logo=snort&logoColor=white)
   ![Splunk](https://img.shields.io/badge/Splunk-00A3E0?style=for-the-badge&logo=splunk&logoColor=white)
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-  ![BloodHound](https://img.shields.io/badge/BloodHound-C41E3A?style=for-the-badge&logo=graphcool&logoColor=white)
+ 
 
 
 
