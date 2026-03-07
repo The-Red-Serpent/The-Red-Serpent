@@ -19,6 +19,7 @@
 | Infrastructure       | Phishing Operations |
 | Web                  | AV/EDR Evasion |
 | Mobile               | Maldev & BOF Development |
+|                      | C programming language|
 
 
 I'm a human not an AI so, it will take time for me to learn
