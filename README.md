@@ -12,15 +12,15 @@
 
 ### Capabilities 
 
-                                                  |   Currently Good at  |   Working on             |
-                                                  |----------------------|--------------------------|
-                                                  | Active Directory     | Cloud Red Teaming        |
-                                                  | Network              | AI Red Teaming           |
-                                                  | OSINT                | WIFI                     |
-                                                  | Infrastructure       | Phishing Operations      |
-                                                  | Web                  | AV/EDR Evasion           |
-                                                  | Mobile               | Maldev & BOF Development |
-                                                  |                      | C programming language   |  
+                                            |   Currently Good at  |   Working on             |
+                                            |----------------------|--------------------------|
+                                            | Active Directory     | Cloud Red Teaming        |
+                                            | Network              | AI Red Teaming           |
+                                            | OSINT                | WIFI                     |
+                                            | Infrastructure       | Phishing Operations      |
+                                            | Web                  | AV/EDR Evasion           |
+                                            | Mobile               | Maldev & BOF Development |
+                                            |                      | C programming language   |  
 
   
 
