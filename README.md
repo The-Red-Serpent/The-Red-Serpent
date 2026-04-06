@@ -39,7 +39,7 @@ I'm a human not an AI so, it will take time for me to learn
 
 
 
-## Red Teaming Tools
+## Red Team
  ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-DC5C1B?style=for-the-badge&logo=cobaltstrike&logoColor=white)
  ![BloodHound](https://img.shields.io/badge/BloodHound-C41E3A?style=for-the-badge&logo=graphcool&logoColor=white)
  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6347?style=for-the-badge&logo=hackaday&logoColor=white)
@@ -50,7 +50,7 @@ I'm a human not an AI so, it will take time for me to learn
  ![Ettercap](https://img.shields.io/badge/Ettercap-4EAA25?style=for-the-badge&logo=ettercap&logoColor=white)
 
 
-##  Blue Teaming Tools
+##  Blue Team
 
   ![Nessus](https://img.shields.io/badge/Nessus-2396F3?style=for-the-badge&logo=tenable&logoColor=white)
   ![Snort](https://img.shields.io/badge/Snort-EE3124?style=for-the-badge&logo=snort&logoColor=white)
@@ -60,13 +60,6 @@ I'm a human not an AI so, it will take time for me to learn
 
 
 
-
-
-## GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=The-Red-Serpent&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
-</div>
 
 ## Certifications
 <div align="left">
