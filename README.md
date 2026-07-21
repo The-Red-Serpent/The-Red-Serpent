@@ -14,13 +14,15 @@
 
                                             |   Currently Good at  |   Working on             |
                                             |----------------------|--------------------------|
-                                            | Active Directory     | Cloud Red Teaming        |
+                                            | Active Directory     | Azure Red Teaming        |
                                             | Network              | AI Red Teaming           |
-                                            | OSINT                | WIFI                     |
+                                            | OSINT                | WIFI Penetration Testing |
                                             | Infrastructure       | Phishing Operations      |
                                             |                      | AV/EDR Evasion           |
-                                            |                      | Maldev & BOF Development |
-                                            |                      | C programming language   |  
+                                            |                      | Maldev  DEvelopment      |
+                                            |                      | BOF Development          |
+                                            |                      | C programming language   |
+                                            |                      | Terraform                |  
 
   
 
