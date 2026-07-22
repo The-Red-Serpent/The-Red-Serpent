@@ -59,6 +59,8 @@
 <div align="left">
   <img src="https://templates.images.credential.net/17043567286076012013649409456004.png"  width="120"/>
   <img src="https://templates.images.credential.net/17043570231479652261133221341593.png"  width="120"/>
+  <img src="https://pentestingexams.com/wp-content/uploads/2023/01/cert-stamp-cnsp.webp"  width="120"/>
+  
   
 </div>
 
