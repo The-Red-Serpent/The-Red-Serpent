@@ -1,26 +1,22 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=The+Red+Serpent;Red+Team+Operator" />
 </h1>
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/3ioY4Ezu0YAAAAAd/blue-lock-isagi.gif">
 
-<table>
-<tr>
-<td valign="top" width="65%">
-
-## 👋 About Me
-
-- Offensive Security enthusiast focused on **Red Teaming**, **Adversary Emulation**, and **Enterprise Security**.
+- Offensive Security enthusiast focused on **Red Teaming**, **Adversary Emulation**.
+    
 - **Experienced with:** Active Directory, Network Security, OSINT, and Infrastructure Security.
-- **Currently learning:** Azure Red Teaming, AI Red Teaming, Wi-Fi Penetration Testing, Phishing Operations, Malware Development, BOF Development, C Programming, and Terraform.
 
-</td>
+- **Currently learning:** Azure Red Teaming, AI Red Teaming,
 
-<td align="center" width="35%">
+    Wi-Fi Penetration Testing, Phishing Operations,
 
-<img src="https://media1.tenor.com/m/3ioY4Ezu0YAAAAAd/blue-lock-isagi.gif" width="300"/>
+    Malware Development, BOF Development,C Programming
 
-</td>
-</tr>
-</table>
+    and Terraform.
+
+
+
 
 ## Languages 
 
