@@ -10,22 +10,13 @@
        height="350" />
 </p>
 
-### Capabilities 
+## About Me
 
-                                            |   Currently Good at  |   Working on             |
-                                            |----------------------|--------------------------|
-                                            | Active Directory     | Azure Red Teaming        |
-                                            | Network              | AI Red Teaming           |
-                                            | OSINT                | WIFI Penetration Testing |
-                                            | Infrastructure       | Phishing Operations      |
-                                            |                      | AV/EDR Evasion           |
-                                            |                      | Maldev  DEvelopment      |
-                                            |                      | BOF Development          |
-                                            |                      | C programming language   |
-                                            |                      | Terraform                |  
+- Offensive Security enthusiast focused on **Red Teaming**, **Adversary Emulation**, and **Enterprise Security**.
 
+- **Experienced with:** Active Directory, Network Security, OSINT, and Infrastructure Security
+- **Currently learning:** Azure Red Teaming, AI Red Teaming, Wi-Fi Pentest,Phishing Operations,  Malware Development, BOF Development, C Programming, and Terraform
   
-
 ## Languages 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
