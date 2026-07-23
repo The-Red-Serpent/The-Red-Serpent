@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=The+Red+Serpent;Red+Team+Operator" />
 </h1>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/m/tKUzbi783KwAAAAC/bers.gif">
+<img align="right" alt="Coding" width="350"  height="550" src="./tenor.gif">
 
 
 - Offensive Security enthusiast focused on **Red Teaming**, **Adversary Emulation**.
