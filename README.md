@@ -67,6 +67,8 @@ Offensive Security enthusiast focused on **Red Teaming** and  **Adversary Emulat
   <img src="https://templates.images.credential.net/17043567286076012013649409456004.png"  width="120"/>
   <img src="https://templates.images.credential.net/17043570231479652261133221341593.png"  width="120"/>
   <img src="https://pentestingexams.com/wp-content/uploads/2023/01/cert-stamp-cnsp.webp"  width="120"/>
+  <img src="https://api.eu.badgr.io/public/badges/Od2nC1yPRPaDC9UCJ8W7Lg/image?type=png&fmt=wide" width="120"/>
+  
   
   
 </div>
