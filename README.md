@@ -25,42 +25,6 @@ Offensive Security enthusiast focused on **Red Teaming** and  **Adversary Emulat
 
 
 
-## Languages 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-##  Operating Systems
-
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C8B?style=for-the-badge&logo=kali-linux&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
-
-## Red Team
- ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-DC5C1B?style=for-the-badge&logo=cobaltstrike&logoColor=white)
- ![BloodHound](https://img.shields.io/badge/BloodHound-C41E3A?style=for-the-badge&logo=graphcool&logoColor=white)
- ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6347?style=for-the-badge&logo=hackaday&logoColor=white)
- ![Metasploit](https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white)
- ![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnome-terminal&logoColor=white)
- ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-FF5722?style=for-the-badge&logo=owasp&logoColor=white)
- ![Social-Engineering Toolkit](https://img.shields.io/badge/Social_Engineering_Toolkit-EE3124?style=for-the-badge&logo=toolbox&logoColor=white)
- ![Ettercap](https://img.shields.io/badge/Ettercap-4EAA25?style=for-the-badge&logo=ettercap&logoColor=white)
-
-
-##  Blue Team
-
-  ![Nessus](https://img.shields.io/badge/Nessus-2396F3?style=for-the-badge&logo=tenable&logoColor=white)
-  ![Snort](https://img.shields.io/badge/Snort-EE3124?style=for-the-badge&logo=snort&logoColor=white)
-  ![Splunk](https://img.shields.io/badge/Splunk-00A3E0?style=for-the-badge&logo=splunk&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
- 
-
-
-
 
 ## Certifications
 <div align="left">
@@ -69,17 +33,6 @@ Offensive Security enthusiast focused on **Red Teaming** and  **Adversary Emulat
   <img src="https://pentestingexams.com/wp-content/uploads/2023/01/cert-stamp-cnsp.webp"  width="120"/>
   <img src="https://api.eu.badgr.io/public/badges/Od2nC1yPRPaDC9UCJ8W7Lg/image?type=png&fmt=wide" width="120"/>
   
-  
-  
-</div>
 
-[![](https://visitcount.itsvg.in/api?id=The-Red-Serpent&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-Red-Serpent/The-Red-Serpent/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-Red-Serpent/The-Red-Serpent/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/The-Red-Serpent/The-Red-Serpent/output/github-snake.svg" />
-</picture>
 
 
