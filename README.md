@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=The+Red+Serpent;Red+Team+Operator" />
 </h1>
 <p align="center">
-  <img src="./tenor.gif" alt="Coding" width="500" height="600">
+  <img src="./tenor.gif" alt="Coding" width="400" height="500">
 </p>
 
 
