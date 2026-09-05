@@ -1,26 +1,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=The+Red+Serpent;Red+Team+Operator" />
 </h1>
-<img align="right" alt="Coding" width="300"  height="450" src="./tenor.gif">
-
-
-Offensive Security enthusiast focused on **Red Teaming** and  **Adversary Emulation**.
-    
-- **Experienced with:**
-    - Active Directory
-    - Network Security
-    - OSINT
-    - Infrastructure Security.
-
-- **Currently learning:**
-    - Azure Red Teaming
-    - AI Red Teaming
-    - Wi-Fi Penetration Testing
-    - Phishing Operations
-    - Malware Development
-    - BOF Development
-    - C Programming
-    - Terraform.
+<p align="center">
+  <img src="./tenor.gif" alt="Coding" width="500" height="600">
+</p>
 
 
 
